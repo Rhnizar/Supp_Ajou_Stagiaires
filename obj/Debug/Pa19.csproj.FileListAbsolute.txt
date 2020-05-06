@@ -1,0 +1,21 @@
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_sta\Stagiaire\bin\Debug\Passage2019.exe.config
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_sta\Stagiaire\obj\Debug\Passage2019.exe
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_sta\Stagiaire\obj\Debug\Passage2019.pdb
+C:\Users\Rhnizar Rida\Desktop\C#\exemple zaher\supp_ajou_st\Stagiaire\bin\Debug\Passage2019.exe.config
+C:\Users\Rhnizar Rida\Desktop\C#\exemple zaher\supp_ajou_st\Stagiaire\obj\Debug\Passage2019.exe
+C:\Users\Rhnizar Rida\Desktop\C#\exemple zaher\supp_ajou_st\Stagiaire\obj\Debug\Passage2019.pdb
+C:\Users\Rhnizar Rida\Desktop\C#\exemple zaher\supp_ajou_st\Stagiaire\obj\Debug\Pa19.csprojResolveAssemblyReference.cache
+C:\Users\Rhnizar Rida\Desktop\C#\exemple zaher\supp_ajou_st\Stagiaire\obj\Debug\Passage2019.Properties.Resources.resources
+C:\Users\Rhnizar Rida\Desktop\C#\exemple zaher\supp_ajou_st\Stagiaire\obj\Debug\Pa19.csproj.GenerateResource.Cache
+C:\Users\Rhnizar Rida\Desktop\C#\exemple zaher\supp_ajou_st\Stagiaire\obj\Debug\Pa19.Form1.resources
+C:\Users\Rhnizar Rida\Desktop\C#\exemple zaher\supp_ajou_st\Stagiaire\bin\Debug\Passage2019.exe
+C:\Users\Rhnizar Rida\Desktop\C#\exemple zaher\supp_ajou_st\Stagiaire\bin\Debug\Passage2019.pdb
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_st\Stagiaire\bin\Debug\Passage2019.exe.config
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_st\Stagiaire\obj\Debug\Passage2019.exe
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_st\Stagiaire\obj\Debug\Passage2019.pdb
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_st\Stagiaire\bin\Debug\Passage2019.exe
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_st\Stagiaire\bin\Debug\Passage2019.pdb
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_st\Stagiaire\obj\Debug\Pa19.csprojResolveAssemblyReference.cache
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_st\Stagiaire\obj\Debug\Pa19.Form1.resources
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_st\Stagiaire\obj\Debug\Passage2019.Properties.Resources.resources
+C:\Users\Rhnizar Rida\Desktop\supp_ajou_st\Stagiaire\obj\Debug\Pa19.csproj.GenerateResource.Cache

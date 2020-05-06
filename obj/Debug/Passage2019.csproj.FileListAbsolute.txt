@@ -1,0 +1,9 @@
+C:\Users\Rhnizar Rida\Desktop\C#\Passage2019\Passage2019\bin\Debug\Passage2019.exe.config
+C:\Users\Rhnizar Rida\Desktop\C#\Passage2019\Passage2019\obj\Debug\Passage2019.csprojResolveAssemblyReference.cache
+C:\Users\Rhnizar Rida\Desktop\C#\Passage2019\Passage2019\obj\Debug\Passage2019.Form1.resources
+C:\Users\Rhnizar Rida\Desktop\C#\Passage2019\Passage2019\obj\Debug\Passage2019.Properties.Resources.resources
+C:\Users\Rhnizar Rida\Desktop\C#\Passage2019\Passage2019\obj\Debug\Passage2019.csproj.GenerateResource.Cache
+C:\Users\Rhnizar Rida\Desktop\C#\Passage2019\Passage2019\bin\Debug\Passage2019.exe
+C:\Users\Rhnizar Rida\Desktop\C#\Passage2019\Passage2019\bin\Debug\Passage2019.pdb
+C:\Users\Rhnizar Rida\Desktop\C#\Passage2019\Passage2019\obj\Debug\Passage2019.exe
+C:\Users\Rhnizar Rida\Desktop\C#\Passage2019\Passage2019\obj\Debug\Passage2019.pdb
